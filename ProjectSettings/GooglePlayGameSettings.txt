@@ -1,0 +1,10 @@
+lastUpgrade=00935
+proj.pluginVersion=0.9.35
+proj.AppId=833723907708
+and.BundleId=com.tapstudios.RunIntoTheNight
+proj.classDir=Assets
+proj.ConstantsClassName=RunIntoTheNightResources
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e833723907708%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.tapstudios.RunIntoTheNight%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_run_500_meters%22%3eCgkI_PzE7qEYEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_collect_100_gold%22%3eCgkI_PzE7qEYEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_collect_50_power_ups%22%3eCgkI_PzE7qEYEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_10_deaths%22%3eCgkI_PzE7qEYEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_run_1000_meters%22%3eCgkI_PzE7qEYEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true

@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DayNightController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlatformDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeathMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Parallax.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackgroundGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Powerups.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FPS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ArrowGeneration.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObjectPooler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SimpleAds.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ArrowMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MusicManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatformGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameInstructions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PickupPoints.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DayNightController.cs" Line="6" Column="51" />
+      <File FileName="Assets\Scripts\GooglePlayServicesController.cs" Line="1" Column="1" />
+      <File FileName="Assets\RunIntoTheNightResources.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PowerupManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
